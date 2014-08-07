@@ -1,4 +1,5 @@
 <?php
- phpinfo();1111111
+ phpinfo();
+ echo 111111;
 
 ?>
